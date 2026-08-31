@@ -3,8 +3,7 @@
 ## Overview
 This project analyzes ninth-grade student performance on the Colorado Student Assessment Program (CSAP) in math, reading, and writing for the 2009 and 2010 school years. Colorado math scores were notably low during this period, prompting increased focus on math curriculum in high schools statewide. This analysis investigates whether math passing rates improved, whether that improvement came at the cost of reading and writing performance, and whether math passing rates can be predicted from reading and writing results.
 
-Full analysis, code, and output: (Download the file to see the 10-page report)
-      Name of File : Final_Project_Sanvitha_Vallem.pdf 
+Full analysis, code, and output: (Download the file to see the 10-page report):  Final_Project_Sanvitha_Vallem.pdf 
 
 ## Research Questions
 1. Was there a significant improvement in math passing rates between 2009 and 2010? If so, was there a decline in reading and writing performance?
